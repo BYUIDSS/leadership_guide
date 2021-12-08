@@ -7,7 +7,7 @@ The mission of the BYUI Data Science Society is to build employable skills for c
 - Welcome students to society every week.
 - Along with VP of Projects, be able to advise students on which project to join.
 - Along with VP of Outreach, promote DSS by attending/speaking at University Events, hosting booths, and answering student questions.
-- Pass along any news/announcments to VP of communications for the newsletter.
+- Pass along any news/announcments to VP of Communication for the newsletter.
 
 ## Vice President of Projects
 
@@ -21,5 +21,5 @@ The mission of the BYUI Data Science Society is to build employable skills for c
 
 ## Vice President of Outreach
 
-- Help President promote DSS by attending events and hosting booths.
+- Promote DSS by attending events and hosting booths (assisted by President and other officers/advisors).
 - Manage the DSS I-Belong page.
